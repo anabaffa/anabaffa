@@ -1,4 +1,4 @@
-<img style="margin-top: 40px;" align="right" width="400px" src="https://i.pinimg.com/originals/04/5f/eb/045feb8f000006137ae43ea7a7ec9be1.gif">
+<img style="margin-top: 30px;" align="right" width="300px" src="https://c.tenor.com/VO5aiaobaDAAAAAC/tenor.gif">
 
 # Oiee, seja bem vindo(a)! <img src="https://media.giphy.com/media/f9jQLaKJJl6dL0AmmZ/giphy.gif" width="30px">
 
