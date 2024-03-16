@@ -1,7 +1,10 @@
 
 
-# Oiee, seja bem vindo(a)! <img src="https://media.giphy.com/media/f9jQLaKJJl6dL0AmmZ/giphy.gif" position:relative width="30px">
-<img style="margin-top: 30px;" align="right" width="300px" src="https://c.tenor.com/VO5aiaobaDAAAAAC/tenor.gif">
+<img style="margin-top: 40px;" align="right" width="400px" src="https://c.tenor.com/VO5aiaobaDAAAAAC/tenor.gif"> 
+#Oiee, seja bem vindo(a)! 👋🏻 
+<br> <br>
+<!--<img src="https://media.giphy.com/media/f9jQLaKJJl6dL0AmmZ/giphy.gif" position:relative width="30px"> -->
+
 
 Sou a Ana Baffa, tenho 21 anos e estou estudando para me tornar uma desenvolvedora de software.
 
