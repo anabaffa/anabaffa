@@ -1,5 +1,6 @@
-### Oieee, seja bem vindo(a)! 👋🏻
-<hr>
+<img style="margin-top: 40px;" align="right" width="400px" src="https://i.pinimg.com/originals/04/5f/eb/045feb8f000006137ae43ea7a7ec9be1.gif">
+
+# Oiee, seja bem vindo(a)! <img src="https://media.giphy.com/media/f9jQLaKJJl6dL0AmmZ/giphy.gif" width="30px">
 
 Sou a Ana Baffa, tenho 21 anos e estou estudando para me tornar uma desenvolvedora de software.
 
