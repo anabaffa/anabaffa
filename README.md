@@ -11,8 +11,8 @@ Sou a Ana Baffa, tenho 21 anos e estou estudando para me tornar uma desenvolvedo
   <br> <br>
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anabaffa&show_icons=true&theme=dracula)
     <br> <br>
-  ![Snake animation](https://github.com/anabaffa/blog/output-contribution-grid-snake.svg)
-  [![readme](https://github-readme-stats.verce1.app/api/pin/?username/anabaffa&repo=anabaffa&theme=react)].(https://github.com/anabaffa/anabaffa).
+  ![Snake animation](https://github.com/anabaffa/anabaffa)
+  [![readme](https://github-readme-stats.verce1.app/api/pin/?username/anabaffa&repo=anabaffa&theme=react)].(https://github.com/anabaffa/anabaffa)
  
  
   <!--<div>
