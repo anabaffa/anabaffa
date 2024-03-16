@@ -1,7 +1,7 @@
 
 
 # Oiee, seja bem vindo(a)! <img src="https://media.giphy.com/media/f9jQLaKJJl6dL0AmmZ/giphy.gif" width="30px">
-<img style="margin-top: 30px;" align="right" width="450px" src="https://c.tenor.com/VO5aiaobaDAAAAAC/tenor.gif">
+<img style="margin-top: 30px;" align="right" width="300px" src="https://c.tenor.com/VO5aiaobaDAAAAAC/tenor.gif">
 
 Sou a Ana Baffa, tenho 21 anos e estou estudando para me tornar uma desenvolvedora de software.
 
