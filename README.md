@@ -9,7 +9,7 @@ Sou a Ana Baffa, tenho 21 anos e estou estudando para me tornar uma desenvolvedo
 - 💻 Estou no 1º semestre em Análise e Desenvolvimento de Sistemas;
 - 👇🏻 Te convido a me conhecer um pouco mais...
   <br> <br>
- 
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dracula&show_icons=true)
  
  
   <!--<div>
