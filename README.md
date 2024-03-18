@@ -10,7 +10,7 @@
 - 💻 Estou no 1º semestre em Análise e Desenvolvimento de Sistemas;
 - 👇🏻 Te convido a me conhecer um pouco mais...
   <br> <br>
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anabaffa&theme=dracula&show_icons=true)-->
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anabaffa&theme=dracula&show_icons=true)
 
 <!--![snake gif](https://github.com/anabafffa/anabaffa/blob/output/github-contribution-grid-snake.svg) -->
 
