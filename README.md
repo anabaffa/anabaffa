@@ -11,6 +11,10 @@
 - 👇🏻 Te convido a me conhecer um pouco mais...
   <br> <br>
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anabaffa&theme=dracula&show_icons=true)
+
+![snake gif](https://github.com/anabafffa/anabaffa/blob/output/github-contribution-grid-snake.svg)
+
+
  
  
   <!--<div>
