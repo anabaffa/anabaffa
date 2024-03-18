@@ -12,7 +12,7 @@
   <br> <br>
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anabaffa&theme=dracula&show_icons=true)
 
-![snake gif](https://github.com/anabafffa/anabaffa/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/anabafffa/anabaffa/blob/output/github-contribution-grid-snake-dracula.svg)
 
 
  
