@@ -4,10 +4,10 @@
 <h1> Oiee, seja bem vindo(a)! 👋🏻  </h1> 
 <!--<img src="https://media.giphy.com/media/f9jQLaKJJl6dL0AmmZ/giphy.gif" position:relative width="30px"> -->
 
- Sou a Ana Baffa, tenho 21 anos e estou estudando para me tornar uma desenvolvedora de software.
+ Sou a Ana Baffa, tenho 23 anos e estou estudando para me tornar uma desenvolvedora de software BackEnd Java.
 
-- 🌱 Atualmente estou aprendendo Web FrontEnd na Udemy;
-- 💻 Estou no 1º semestre em Análise e Desenvolvimento de Sistemas;
+- 🌱 Atualmente estou aprendendo Java completo na Udemy;
+- 💻 Estou no 3º semestre em Análise e Desenvolvimento de Sistemas;
 - 👇🏻 Te convido a me conhecer um pouco mais...
   <br> <br>
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anabaffa&theme=dracula&show_icons=true)
