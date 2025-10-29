@@ -4,7 +4,7 @@
 <h1> Oiee, seja bem vindo(a)! 👋🏻  </h1> 
 <!--<img src="https://media.giphy.com/media/f9jQLaKJJl6dL0AmmZ/giphy.gif" position:relative width="30px"> -->
 
- Sou a Ana Baffa, tenho 23 anos e estou estudando para me tornar uma desenvolvedora BackEnd Java.
+ Sou a Ana Baffa, tenho 23 anos e estou estudando para me tornar uma desenvolvedora FrontEnd.
 
 - 🌱 Atualmente estou aprendendo Web FrontEnd;
 - 💻 Estou no 4º semestre em Análise e Desenvolvimento de Sistemas;
