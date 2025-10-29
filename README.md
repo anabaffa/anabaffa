@@ -6,8 +6,8 @@
 
  Sou a Ana Baffa, tenho 23 anos e estou estudando para me tornar uma desenvolvedora BackEnd Java.
 
-- 🌱 Atualmente estou aprendendo Java completo na Udemy;
-- 💻 Estou no 3º semestre em Análise e Desenvolvimento de Sistemas;
+- 🌱 Atualmente estou aprendendo Web FrontEnd;
+- 💻 Estou no 4º semestre em Análise e Desenvolvimento de Sistemas;
 - 👇🏻 Te convido a me conhecer um pouco mais...
   <br> <br>
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anabaffa&theme=dracula&show_icons=true)
