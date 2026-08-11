@@ -1,15 +1,16 @@
 
 
 <img style="margin-top: 40px;" align="right" width="300px" src="https://c.tenor.com/VO5aiaobaDAAAAAC/tenor.gif"> 
-<h1> Oiee, seja bem vindo(a)! 👋🏻  </h1> 
-<img src="https://media.giphy.com/media/f9jQLaKJJl6dL0AmmZ/giphy.gif" width="30px"> 
+<h1 align="left"> Olá! Sou a Ana Baffa! 👋🏻  </h1> 
 
- Sou a Ana Baffa, tenho 24 anos e estou estudando para me tornar uma desenvolvedora Backend.
+ <p align="left"> 
+  <strong> Desenvolvedora Backend em formação </strong>, apaixonada por tecnologia e em constatnte evolução através de estudos e projetos práticos. </p>
 
-- 🎓 Formada em Análise e Desenvolvimento de Sistemas;
-- 💻 Atualmente estudando Java, Programação Orientada a Objetos, APIs e Banco de Dados;
-- 👇🏻 Te convido a me conhecer um pouco mais...
-  <br> <br>
+<p align="left">
+🎓 Formada em Análise e Desenvolvimento de Sistemas<br>
+💻 Atualmente estudando Java, Programação Orientada a Objetos, APIs e Banco de Dados<br>
+🚀 Construindo projetos para aprimorar minhas habilidades </p>                         
+ 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anabaffa&theme=dracula&show_icons=true)
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anabaffa&theme=dracula&hide_progress=truelayoutcompact)
 
