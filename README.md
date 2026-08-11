@@ -2,7 +2,7 @@
 
 <img style="margin-top: 40px;" align="right" width="300px" src="https://c.tenor.com/VO5aiaobaDAAAAAC/tenor.gif"> 
 <h1> Oiee, seja bem vindo(a)! 👋🏻  </h1> 
-<!--<img src="https://media.giphy.com/media/f9jQLaKJJl6dL0AmmZ/giphy.gif" position:relative width="30px"> -->
+<img src="https://media.giphy.com/media/f9jQLaKJJl6dL0AmmZ/giphy.gif" width="30px"> 
 
  Sou a Ana Baffa, tenho 24 anos e estou estudando para me tornar uma desenvolvedora Backend.
 
