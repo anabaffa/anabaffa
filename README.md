@@ -1,7 +1,7 @@
 
 
 <img style="margin-top: 40px;" align="right" width="300px" src="https://c.tenor.com/VO5aiaobaDAAAAAC/tenor.gif"> 
-<h1 align="left"> Olá! Sou a Ana Baffa! 👋🏻  </h1> 
+<h1 align="left"> Olá, Sou a Ana Baffa! 👋🏻  </h1> 
 
  <p align="left"> 
   <strong> Desenvolvedora Backend em formação </strong>, apaixonada por tecnologia e em constatnte evolução através de estudos e projetos práticos. </p>
