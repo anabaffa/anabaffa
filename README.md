@@ -11,8 +11,6 @@
 💻 Atualmente estudando Java, Programação Orientada a Objetos, APIs e Banco de Dados<br>
 🚀 Construindo projetos para aprimorar minhas habilidades </p>                         
  
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anabaffa&theme=dracula&show_icons=true)
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anabaffa&theme=dracula&hide_progress=truelayoutcompact)
 
 <!--![snake gif](https://github.com/anabafffa/anabaffa/blob/output/github-contribution-grid-snake.svg) -->
 
